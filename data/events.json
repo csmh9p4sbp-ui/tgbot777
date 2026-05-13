@@ -1,14 +1,17 @@
 {
   "next_event": {
-    "title": "ACA 204",
-    "date": "25 мая 2026",
-    "location": "Москва",
-    "main_event": "Боец 1 vs Боец 2",
-    "stream_url": "https://www.aca-mma.com/",
+    "title": "ACA 204: Shlemenko vs Emeev",
+    "date": "19 июня 2026",
+    "time": "16:00",
+    "location": "Омск, Россия",
+    "venue": "G-Drive Arena",
+    "main_event": "Alexander Shlemenko vs Ramazan Emeev",
+    "stream_url": "https://www.aca-mma.com/en",
     "card": [
-      "Боец 1 vs Боец 2",
-      "Боец 3 vs Боец 4",
-      "Боец 5 vs Боец 6"
+      "Alexander Shlemenko vs Ramazan Emeev — 84 кг",
+      "Alexey Shurkevich vs Chersi Dudaev — 77 кг",
+      "Ruslan Shamilov vs Dmitriy Aryshev — 84 кг",
+      "Artem Frolov vs соперник уточняется — 84 кг"
     ]
   }
 }
