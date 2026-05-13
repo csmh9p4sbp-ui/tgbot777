@@ -1,0 +1,14 @@
+{
+  "next_event": {
+    "title": "ACA 204",
+    "date": "25 мая 2026",
+    "location": "Москва",
+    "main_event": "Боец 1 vs Боец 2",
+    "stream_url": "https://www.aca-mma.com/",
+    "card": [
+      "Боец 1 vs Боец 2",
+      "Боец 3 vs Боец 4",
+      "Боец 5 vs Боец 6"
+    ]
+  }
+}
